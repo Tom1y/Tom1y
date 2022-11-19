@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom1y. I'm a self-taught
-- 👀 I’m interested in front-end web development and ui design
-- 🌱 I’m currently learning: HTML, CSS and javascript
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning: HTML, CSS, javascript and react
 - 📫 How to reach me ...
 
 <!---
