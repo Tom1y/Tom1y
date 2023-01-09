@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tom1y. I'm a self-taught
+- 👋 Hi, I’m @Tom1y. I'm a self-taught programmer.
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning: HTML, CSS, javascript and react
-- 📫 How to reach me ...
+- 📫 you can reach me via email : horvat.tomi1@gmail.com
 
 <!---
 Tom1y/Tom1y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
